@@ -1,0 +1,25 @@
+{
+  "name": "bolter",
+  "version": "1.0.0",
+  "description": "A tool for making functions with optional arguments",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedFoxCode/bolter.git"
+  },
+  "keywords": [
+    "function",
+    "overload",
+    "args",
+    "arg",
+    "argument",
+    "arguments",
+    "tool",
+    "util"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RedFoxCode/bolter/issues"
+  },
+  "homepage": "https://github.com/RedFoxCode/bolter#readme"
+}
